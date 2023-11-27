@@ -65,7 +65,7 @@ Check all the gates following the same procedure.
 ## RTL realization
 ![RTL](https://github.com/GnanendranN/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138955207/979461b6-2ef4-471c-af2b-fabbb2aff3ea)
 
-## Truthtable
+## Truth Table
 ![Truth](https://github.com/GnanendranN/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/138955207/21e3b0d3-1282-44a5-8309-d1c2342fc675)
 
 ## Output:
